@@ -7,7 +7,10 @@ The Cloud Native Computing Foundation (CNCF) continues to shape the future of mo
 ### Why does this matter?
 
 ✅ Faster deployments & automation ⚡
+
 ✅ Unmatched scalability & resilience 🏗️
+
 ✅ Built-in security & observability 🔍
+
 ✅ A thriving open-source community 🤝It’s the NOW! 🚀☁️
  
