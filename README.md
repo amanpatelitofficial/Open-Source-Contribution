@@ -13,4 +13,20 @@ The Cloud Native Computing Foundation (CNCF) continues to shape the future of mo
 ✅ Built-in security & observability 🔍
 
 ✅ A thriving open-source community 🤝It’s the NOW! 🚀☁️
+
+## 🛠️ Contributing
+
+We ❤️ contributions! To contribute:
+
+Fork the repository.
+
+Create a feature branch (git checkout -b feature-name).
+
+Commit your changes (git commit -m "Add new feature").
+
+Push to your branch (git push origin feature-name).
+
+Open a Pull Request.
+
+Read the CONTRIBUTING.md for detailed guidelines.
  
