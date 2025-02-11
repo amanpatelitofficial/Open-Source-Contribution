@@ -29,4 +29,16 @@ Push to your branch (git push origin feature-name).
 Open a Pull Request.
 
 Read the CONTRIBUTING.md for detailed guidelines.
+
+# 🌎 Join the Community
+
+📢 Follow us on:
+
+🔹 Twitter: @YourProject
+
+🔹 Discord: Join the Chat
+
+🔹 CNCF Slack: #yourproject
+
+🚀 Let’s build the future of cloud-native together!
  
