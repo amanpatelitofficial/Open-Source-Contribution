@@ -1,6 +1,6 @@
 # Open-Source-Contribution
 
- ## 🌍 Cloud-Native is NOT the Future—💡 
+### 🌍 Cloud-Native is NOT the Future—It’s the NOW! 🚀☁️
 
 The Cloud Native Computing Foundation (CNCF) continues to shape the future of modern infrastructure by fostering innovation, collaboration, and open-source adoption. As cloud-native technologies evolve, the CNCF landscape has become the backbone of scalable, resilient, and high-performance applications.
 
