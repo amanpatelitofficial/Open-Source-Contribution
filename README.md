@@ -55,7 +55,7 @@ Let’s build something amazing, together. 🚀🔥
 
 🔹 Discord: Join the Chat
 
-🔹 CNCF Slack: #yourproject
+🔹 Visit : amanops.com
 
 🚀 Let’s build the future of cloud-native together!
  
