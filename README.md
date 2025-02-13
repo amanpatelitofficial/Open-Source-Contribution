@@ -73,7 +73,7 @@ But here’s the game-changer—Resilience! 💡
 
 🔹 Discord: Join the Chat
 
-🔹 Visit : amanops.com
+🔹 Visit : https://amanops.com
 
 🚀 Let’s build the future of cloud-native together!
  
