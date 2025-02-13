@@ -22,7 +22,7 @@ We LOVE open-source contributions! 🎉 Whether it's fixing a bug, adding a feat
 
 🔹 Fork this repository & star ⭐ it if you find it useful.
 
-🔹 Create a Feature Branch:
+🔹 Create a Feature Branch:-
 
 ```bash
 git checkout -b feature-awesome-update
